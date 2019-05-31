@@ -7,15 +7,15 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  100 / 4
+  100/4
 end
 
 def multiplication(num1, num2)
-  1 * 120
+  1*120
 end
 
 def modulo(num1, num2)
- 10 % 6
+ 10%6
 end
 
 def square_root(num)
@@ -23,5 +23,5 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-   + (( 43 * 23 ) / 87 )
+  7+((43*23)/87)
 end
